@@ -21,3 +21,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.project
+.settings/org.eclipse.m2e.core.prefs
+gateway_demo_core/.settings/org.eclipse.m2e.core.prefs
+gateway_demo_core/.settings/org.eclipse.jdt.core.prefs
+gateway_demo_core/.settings/com.springsource.sts.config.flow.prefs
